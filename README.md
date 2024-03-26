@@ -1,4 +1,4 @@
-# Blog Title :link: https://iuhgnor.github.io/notes 
+# 计算化学, 机器学习和其他 :link: https://iuhgnor.github.io/notes 
 ### :page_facing_up: [1](https://iuhgnor.github.io/notes/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 37 
