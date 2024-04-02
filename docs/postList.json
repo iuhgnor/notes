@@ -1,1 +1,1 @@
-{"P1": {"label": "note", "labelColor": "#0e8a16", "postTitle": "Test", "postUrl": "post/Test.html", "createdDate": "2024-03-26", "dateLabelColor": "#bc4c00"}}
+{"P1": {"labels": ["note"], "postTitle": "Test", "postUrl": "post/Test.html", "createdDate": "2024-03-26", "dateLabelColor": "#bc4c00"}, "labelColorDict": {"bug": "#d73a4a", "documentation": "#0075ca", "duplicate": "#cfd3d7", "enhancement": "#a2eeef", "good first issue": "#7057ff", "help wanted": "#008672", "invalid": "#e4e669", "note": "#0e8a16", "question": "#d876e3", "wontfix": "#ffffff"}}
